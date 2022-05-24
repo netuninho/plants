@@ -9,10 +9,27 @@ nav {
 }
 
 .navbar-logo {
-   font-size: 25px;
+    font-size: 25px;
+ }
+
+footer {
+    background-color: #57a773;
+    align-items: center;
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+footer a {
+    text-decoration: none;
+    color: #0f4c5c;
+    margin-bottom: 1%;
+}
+
+footer a:hover{
+    color: #885A89;
 }
 
 img {
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
 }
