@@ -8,11 +8,11 @@ O objetivo era criar algo belo
 
 # Imagens usadas
 
-<a href='https://br.freepik.com/fotos-vetores-gratis/rega'>Regador</a>
-<a href='https://br.freepik.com/fotos-vetores-gratis/vaso-de-flores'>Vaso de flores</a>
-<a href='https://br.freepik.com/fotos-vetores-gratis/vaso-de-planta'>Adubo Organic</a>
-<a href='https://br.freepik.com/fotos-vetores-gratis/mesa-de-cima'>Kit Iniciante</a>
-<a href='https://br.freepik.com/fotos-vetores-gratis/jardineiro'>Avental</a>
-<a href='https://br.freepik.com/fotos-vetores-gratis/grao-de-cafe'>Grão de café</a>
-<a href='https://br.freepik.com/fotos-vetores-gratis/jardinagem'>Suculentas</a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/rega'>Regador - </a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/vaso-de-flores'>Vaso de flores - </a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/vaso-de-planta'>Adubo Organic - </a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/mesa-de-cima'>Kit Iniciante - </a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/jardineiro'>Avental - </a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/grao-de-cafe'>Grão de café - </a>
+<a href='https://br.freepik.com/fotos-vetores-gratis/jardinagem'>Suculentas - </a>
 <a href='https://br.freepik.com/fotos-vetores-gratis/jardinagem'>Cactos</a>
