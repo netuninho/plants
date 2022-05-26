@@ -33,3 +33,30 @@ img {
     width: 150px;
     height: 150px;
 }
+
+.card-btn {
+    display: flex;
+    color: #885A89;
+    border-color: #885A89;
+    border-radius: 20px;
+    font-size: 90%;
+}
+
+.card-btn:hover {
+    color: #000;
+    background-color: #E08E45;
+    border: none;
+    border-radius: 20px;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+main {
+    margin-top: 10%;;
+}
+
+.carousel {
+    color: #E08E45;
+}
