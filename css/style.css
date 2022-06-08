@@ -12,21 +12,8 @@ nav {
     font-size: 25px;
  }
 
-footer {
-    background-color: #57a773;
-    align-items: center;
-    font-weight: bold;
-    padding-top: 1%;
-}
-
-footer a {
-    text-decoration: none;
-    color: #0f4c5c;
-    margin-bottom: 1%;
-}
-
-footer a:hover{
-    color: #885A89;
+#tittle {
+    margin-top: 10%;
 }
 
 img {
@@ -53,10 +40,20 @@ img {
     border-radius: 20px;
 }
 
-main {
-    margin-top: 10%;;
+footer {
+    background-color: #57a773;
+    align-items: center;
+    font-weight: bold;
+    padding-top: 1%;
 }
 
-.carousel {
-    color: #E08E45;
+footer a {
+    text-decoration: none;
+    color: #0f4c5c;
+    margin-bottom: 1%;
 }
+
+footer a:hover{
+    color: #885A89;
+}
+ 
