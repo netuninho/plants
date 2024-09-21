@@ -10,10 +10,15 @@ nav {
 
 .navbar-logo {
     font-size: 25px;
- }
+}
+
+.mobile-navbar-span {
+    font-size: 20px;
+}
 
 #tittle {
     margin-top: 10%;
+    text-align: center;
 }
 
 img {
@@ -55,5 +60,21 @@ footer a {
 
 footer a:hover{
     color: #885A89;
+}
+
+@media screen and (min-width: 1024px) {
+    .mobile-navbar-span {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .menu-mobile {
+        display: flex;
+        gap: 16px;
+    }
+    .logo-mobile {
+        display: none;
+    }
 }
  

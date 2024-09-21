@@ -11,34 +11,44 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <script type="module" src="scripts/main.js" defer></script>
   </head>
   <body id="plants">
     <header>
         <nav class="navbar navbar-expand-lg fixed-top">
-            <div class="container px-5">
+            <div class="container px-2">
                 <a href="#plants" class="navbar-brand">Plants <i class="bi bi-flower1"></i></a>
-                <button 
-                class="navbar-toggler" 
-                type="button" 
-                data-bs-toggle="collapse" 
-                data-bs-target="#navbarSupportedContent" 
-                aria-controls="navbarSupportedContent" 
-                aria-expanded="false" 
-                aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <div class="menu-mobile">
+                    <button 
+                    class="navbar-toggler" 
+                    type="button" 
+                    data-bs-toggle="collapse" 
+                    data-bs-target="#navbarSupportedContent" 
+                    aria-controls="navbarSupportedContent" 
+                    aria-expanded="false" 
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </div>
             </button>
             </div>
     
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="#carrinho"><i class="bi bi-basket navbar-logo"></i></a></li>
-                    <li class="nav-item"><a class="nav-link" href="#perfil"><i class="bi bi-person navbar-logo"></i></a></li>
-                    <li class="nav-item"><a class="nav-link" href="#longout"><i class="bi bi-box-arrow-in-right navbar-logo"></i></a></li>
+                    <li class="nav-item"><a class="nav-link" href="#carrinho">
+                        <i class="bi bi-basket navbar-logo"></i>
+                    </a></li>
+                    <li class="nav-item"><a class="nav-link" href="#perfil">
+                        <i class="bi bi-person navbar-logo logo-mobile"></i>
+                        <span class="mobile-navbar-span px-2">Perfil</span>
+                    </a></li>
+                    <li class="nav-item"><a class="nav-link" href="#longout">
+                        <i class="bi bi-box-arrow-in-right navbar-logo logo-mobile"></i>
+                        <span class="mobile-navbar-span px-2">Sair</span>
+                    </a></li>
                 </ul>
             </div>
         </nav>
     </header>
-    
     <section id="produtos" class="container-fluid col-11 mt-5">
         <div class="d-flex justify-content-center">
             <h1 class="animate__animated animate__rubberBand" id="tittle">Tudo que você precisa para <br> começar na jardinagem!</h1>
